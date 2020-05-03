@@ -1,0 +1,22 @@
+ this is first commit
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+	new file:   .idea/compiler.xml
+#	new file:   .idea/misc.xml
+#	new file:   .idea/uiDesigner.xml
+#	new file:   .idea/workspace.xml
+#	new file:   AppiumApril2020.iml
+#	new file:   pom.xml
+#	new file:   src/APIDemo_App.apk
+#	new file:   src/main/java/com/appium/basic.java
+#	new file:   target/classes/com/appium/basic.class
+#	new file:   target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+#	new file:   target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+#
